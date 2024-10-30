@@ -65,6 +65,6 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a> </p>
 
-<span>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<span>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bwondessen&layout=compact)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         [![GitHub Streak](https://streak-stats.demolab.com/?user=bwondessen)](https://git.io/streak-stats)</span>

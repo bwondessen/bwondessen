@@ -69,5 +69,5 @@
 <span><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=bwondessen&show_icons=true&locale=en&layout=compact"
         alt="bwondessen" />
-        &nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bwondessen&" alt="bwondessen" /></span>

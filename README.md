@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **UI/UX Design**
 
-- 👨‍💻 Here are some of my iOS apps in the
+- 👨‍💻 Here are some of my apps in the
 [App Store](https://apps.apple.com/us/developer/bruke-wondessen/id1651114466)
 
 - 📫 How to reach me **bwondessen23@gmail.com**

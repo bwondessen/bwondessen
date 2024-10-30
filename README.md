@@ -65,8 +65,6 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a> </p>
 
-<span><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=bwondessen&show_icons=true&locale=en&layout=compact"
-        alt="bwondessen" />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bwondessen&" alt="bwondessen" /></span>
+<span>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        [![GitHub Streak](https://streak-stats.demolab.com/?user=bwondessen)](https://git.io/streak-stats)</span>

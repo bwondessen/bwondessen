@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bruke Wondessen</h1>
 <h3 align="center">An iOS & Full-Stack Web Developer</h3>
 
-- 🔭 I’m currently working on [TravelGeek](https://github.com/bwondessen/TravelGeek)
+- 🔭 I’m currently working on **TravelGeek**
 
 - 🤝 I’m looking to collaborate on **iOS & Web projects**
 

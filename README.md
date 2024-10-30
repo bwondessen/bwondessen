@@ -16,6 +16,7 @@
 <p align="left">
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -68,4 +69,5 @@
 <span><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=bwondessen&show_icons=true&locale=en&layout=compact"
         alt="bwondessen" />
+        &nbsp;
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bwondessen&" alt="bwondessen" /></span>

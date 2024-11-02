@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Bruke Wondessen <br/>iOS & Full-Stack Web Developer</h1>
+<h1>Hi 👋, I'm Bruke! <br/><a href="https://github.com/bwondessen">iOS &</a> <a href="https://github.com/bwondessen">Full-Stack Web Developer</a></h1>
 
 - 🔭 I’m currently working on **TravelGeek**
 

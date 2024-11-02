@@ -1,10 +1,8 @@
 <div id="toc"">
   <ul align="left" style="list-style: none">
     <summary>
-      <h1>
-        <h1>Hi 👋, I'm Bruke Wondessen</h1><br
-<h3>An iOS & Full-Stack Web Developer</h3>
-      </h1>
+      <h1 style="margin: 0; pading: 0;">Hi 👋, I'm Bruke Wondessen</h1><br
+      <h3 style="margin: 0; padding: 0;">An iOS & Full-Stack Web Developer</h3>
     </summary>
   </ul>
 </div>

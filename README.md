@@ -13,12 +13,12 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-- iOS Development
+- <strong>iOS Development</strong>
     - [Brypto](https://github.com/bwondessen/Brypto)
     - [Flowdoro](https://github.com/bwondessen/Flowdoro)
     - [St. Louis](https://github.com/bwondessen/St.-Louis)
     - [BucketList](https://github.com/bwondessen/BucketList)
-- Full-Stack Web Development
+- <strong>Full-Stack Web Development</strong>
     - [SwiftUI Documentation Page](https://github.com/bwondessen/SwiftUI-Documentation-Page)
     - [Chess Store](https://github.com/bwondessen/Chess-Store)
     - [Survey Form](https://github.com/bwondessen/Survey-Form)

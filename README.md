@@ -27,7 +27,7 @@
 <p align="left">
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">⚡️ Languages and Tools:</h2>
 <p align="left"> <a> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" /> </a> <a> <img

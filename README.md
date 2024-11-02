@@ -1,13 +1,6 @@
-<div id="toc">
-  <ul align="left" style="list-style: none">
-    <summary>
-      <h1>
-        <h1>Hi 👋, I'm Bruke Wondessen</h1><br
+<h1>Hi 👋, I'm Bruke Wondessen</h1>
 <h3>An iOS & Full-Stack Web Developer</h3>
-      </h1>
-    </summary>
-  </ul>
-</div>
+
 
 - 🔭 I’m currently working on **TravelGeek**
 

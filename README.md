@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Bruke Wondessen</h1>
-<h3 align="center">An iOS & Full-Stack Web Developer</h3>
+<div id="toc">
+  <ul align="left" style="list-style: none">
+    <summary>
+      <h1>
+        <h1>Hi 👋, I'm Bruke Wondessen</h1><br
+<h3>An iOS & Full-Stack Web Developer</h3>
+      </h1>
+    </summary>
+  </ul>
+</div>
 
 - 🔭 I’m currently working on **TravelGeek**
 
@@ -11,6 +19,19 @@
 [App Store](https://apps.apple.com/us/developer/bruke-wondessen/id1651114466)
 
 - 📫 How to reach me **bwondessen23@gmail.com**
+
+<h2>👨‍💻 My Projects:</h2>
+
+- iOS Development
+    - [Brypto](https://github.com/bwondessen/Brypto)
+    - [Flowdoro](https://github.com/bwondessen/Flowdoro)
+    - [St. Louis](https://github.com/bwondessen/St.-Louis)
+    - [BucketList](https://github.com/bwondessen/BucketList)
+- Full-Stack Web Development
+    - [SwiftUI Documentation Page](https://github.com/bwondessen/SwiftUI-Documentation-Page)
+    - [Chess Store](https://github.com/bwondessen/Chess-Store)
+    - [Survey Form](https://github.com/bwondessen/Survey-Form)
+
 
 <p align="left">
 </p>

@@ -1,6 +1,13 @@
-<h1>Hi 👋, I'm Bruke Wondessen</h1>
+<div id="toc"">
+  <ul align="left" style="list-style: none">
+    <summary>
+      <h1>
+        <h1>Hi 👋, I'm Bruke Wondessen</h1><br
 <h3>An iOS & Full-Stack Web Developer</h3>
-
+      </h1>
+    </summary>
+  </ul>
+</div>
 
 - 🔭 I’m currently working on **TravelGeek**
 
@@ -72,4 +79,3 @@
 <span>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bwondessen&layout=compact)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         [![GitHub Streak](https://streak-stats.demolab.com/?user=bwondessen)](https://git.io/streak-stats)</span>
-

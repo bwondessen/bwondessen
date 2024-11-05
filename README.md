@@ -18,6 +18,7 @@
     - [Flowdoro](https://github.com/bwondessen/Flowdoro)
     - [St. Louis](https://github.com/bwondessen/St.-Louis)
     - [BucketList](https://github.com/bwondessen/BucketList)
+    - [Instafilter](https://github.com/bwondessen/Instafilter)
 - <strong>Full-Stack Web Development</strong>
     - [SwiftUI Documentation Page](https://github.com/bwondessen/SwiftUI-Documentation-Page)
     - [Chess Store](https://github.com/bwondessen/Chess-Store)

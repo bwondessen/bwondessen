@@ -28,6 +28,8 @@
 <p align="left">
 </p>
 
+![Quote](https://github-readme-quotes-bay.vercel.app/quote??quotesUrl=https://github.com/bwondessen/bwondessen/blob/main/Quotes?)
+
 <h2 align="left">⚡️ Languages and Tools:</h2>
 <p align="left"> <a> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"

@@ -24,6 +24,30 @@
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote??quotesUrl=https://github.com/bwondessen/bwondessen/blob/main/Quotes?)
 
+<table>
+    <tr>
+        <td colspan="2">
+        <strong><samp>Stats:</samp></strong>
+        </td>
+        <td colspan="2">
+        <strong><samp>Streak:</samp></strong>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" rowspan="2">
+        <a href="https://github-readme-stats.vercel.app/api?username=bwondessen&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bwondessen&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
+        </a>
+        </td>
+        <td colspan="2" rowspan="2">
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=bwondessen&hide_border=true&theme=tokyonight">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=bwondessen&hide_border=true&theme=tokyonight">
+        </a>
+        </td>
+    </tr>
+</table>
+
+<h2>⚡️ Technologies:</h2>
 <p align="left"> <a> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" /> </a> <a> <img
@@ -62,7 +86,3 @@
             height="40" /> </a> <a> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a> </p>
-
-<span>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bwondessen&layout=compact)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        [![GitHub Streak](https://streak-stats.demolab.com/?user=bwondessen)](https://git.io/streak-stats)</span>

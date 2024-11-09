@@ -18,10 +18,6 @@
     - [Chess Store](https://github.com/bwondessen/Chess-Store)
     - [Survey Form](https://github.com/bwondessen/Survey-Form)
 
-
-<p align="left">
-</p>
-
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote??quotesUrl=https://github.com/bwondessen/bwondessen/blob/main/Quotes?)
 
 <table>

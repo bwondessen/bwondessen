@@ -20,8 +20,6 @@
 
 <br />
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote??quotesUrl=https://github.com/bwondessen/bwondessen/blob/main/Quotes?)
-
 <table>
     <tr>
         <td colspan="2">
@@ -44,6 +42,8 @@
         </td>
     </tr>
 </table>
+
+![Quote](https://github-readme-quotes-bay.vercel.app/quote??quotesUrl=https://github.com/bwondessen/bwondessen/blob/main/Quotes?)
 
 <h2>⚡️ Technologies:</h2>
 <p align="left"> <a> <img

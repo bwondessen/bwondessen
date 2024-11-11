@@ -8,8 +8,8 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <strong>iOS Development</strong>
-    - [Brypto](https://github.com/bwondessen/Brypto)
-    - [Flowdoro](https://github.com/bwondessen/Flowdoro)
+    - [Brypto](https://github.com/bwondessen/Brypto) <em>(App Store)</em>
+    - [Flowdoro](https://github.com/bwondessen/Flowdoro) <em>(App Store)</em>
     - [St. Louis](https://github.com/bwondessen/St.-Louis)
     - [BucketList](https://github.com/bwondessen/BucketList)
     - [Instafilter](https://github.com/bwondessen/Instafilter)

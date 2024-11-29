@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Bruke! <br/><a href="https://github.com/bwondessen">iOS &</a> <a href="https://github.com/bwondessen">Full-Stack Web Developer</a></h1>
+<h1>Hi 👋, I'm Bruke! <br/><a href="https://github.com/bwondessen">iOS &</a> <a href="https://github.com/bwondessen">Full-Stack Developer</a></h1>
 
 - Here are some of my apps on the
 [App Store](https://apps.apple.com/us/developer/bruke-wondessen/id1651114466)

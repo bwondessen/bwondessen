@@ -14,6 +14,8 @@
     - [BucketList](https://github.com/bwondessen/BucketList)
     - [Instafilter](https://github.com/bwondessen/Instafilter)
 - <strong>Full-Stack Web Development</strong>
+    - [MovieBox](https://github.com/bwondessen/MovieBox)
+    - [ToDo List](https://github.com/bwondessen/ToDo-List)
     - [SwiftUI Documentation Page](https://github.com/bwondessen/SwiftUI-Documentation-Page)
     - [Chess Store](https://github.com/bwondessen/Chess-Store)
     - [Survey Form](https://github.com/bwondessen/Survey-Form)
